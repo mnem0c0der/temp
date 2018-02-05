@@ -15,7 +15,7 @@
         <AuthenticationMode>Unauthenticated</AuthenticationMode>
         <Catalogs>
             <Catalog name="FoodMart">
-                <Definition>D:/Samgau-BI/spring-boot/tomcat/data/schema/FoodMart4.xml</Definition>
+                <Definition>https://raw.githubusercontent.com/mnem0c0der/temp/master/FoodMart4.xml</Definition>
             </Catalog>
         </Catalogs>
     </DataSource>
